@@ -14,7 +14,7 @@ Este es un bot de WhatsApp básico creado con **Node.js** y la librería **whats
 
 2. Si usas Termux, navega a la carpeta donde descargaste el bot:
    ```bash
-   cd /ruta/del/bot
+   cd /WHATSAPP-BOT-MD/del/bot
    ```
 
 3. Instala las dependencias necesarias:
