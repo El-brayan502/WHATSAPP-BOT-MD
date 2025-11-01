@@ -41,3 +41,10 @@ Este es un bot de WhatsApp básico creado con **Node.js** y la librería **whats
 
 - El bot creará un directorio llamado `comandos` si no existe, lo que evita errores relacionados con directorios faltantes.
 - Si encuentras algún error o necesitas agregar más comandos, no dudes en modificar el archivo `index.js`.
+
+
+## Github Stats  
+
+<div align="center"><img src="https://count.getloli.com/@ztrdiamond?name=ztrdiamond&theme=booru-lewd&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" align="center"></div>
+
+<br/>
